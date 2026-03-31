@@ -1,5 +1,9 @@
 {
   "appId": "com.musclegym.app",
   "appName": "Muscle Gym",
-  "webDir": "www"
+  "webDir": "www",
+  "server": {
+    "url": "https://musclegym.my.id/login",
+    "cleartext": false
+  }
 }
